@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Milangame14/Pet-Simulator-99-Script-WORKING-ALL-EXECUTOR-/refs/heads/main/Script", true))()
